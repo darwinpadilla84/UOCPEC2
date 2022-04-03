@@ -1,4 +1,5 @@
 ## Tarea de Visualización de datos UOC
+pagina web esta [aqui](https://darwinpadilla84.github.io/UOCPEC2/)
 
 En esta página web se analizarán los ejercicios solicitados para la tarea dos de la materia Visualización de datos de la UOC.
 
