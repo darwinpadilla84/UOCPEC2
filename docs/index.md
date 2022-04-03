@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Tarea de Visualización de datos UOC
 
-You can use the [editor on GitHub](https://github.com/darwinpadilla84/UOCPEC2/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+En esta página web se analizarán los ejercicios solicitados para la tarea dos de la materia Visualización de datos de la UOC.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Primer ejemplo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El primer análisis será el gráfico Sankey
 
 ```markdown
 Syntax highlighted code block
